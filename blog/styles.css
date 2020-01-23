@@ -8,6 +8,9 @@ th.codesTable {
    background-color:#eee;
 }
 
+.codesTable {
+ width: 100%;
+}
 
 
 /*Botón de acordión*/
