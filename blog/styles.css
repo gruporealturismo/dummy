@@ -3,6 +3,10 @@
 div.codes {
  background-color:#eee;
 }
+tr.codesTable {
+   background-color: #eee;
+}
+
 
 
 /*Botón de acordión*/
