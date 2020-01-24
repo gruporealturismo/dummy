@@ -4,7 +4,9 @@ div.codes {
  background-color:#eee;
 }
 
-
+table.codesTable01 {
+ width: "90%";
+}
 
 td.codesTable02 {
  background-color:red;
