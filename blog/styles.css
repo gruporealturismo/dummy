@@ -4,15 +4,10 @@ div.codes {
  background-color:#eee;
 }
 
-th {
+th.codesTable {
  background-color:red;
-}
-
-.codesTable {
  width: 100%;
- background-color:blue;
 }
-
 
 /*Botón de acordión*/
 .details {    
