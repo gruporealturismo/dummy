@@ -5,12 +5,11 @@ div.codes {
 }
 
 table.codesTable01 {
- border-collapse: collapse;
+ font-size: 2em;
 }
 
 td.codesTable02 {
  background-color:#eee;
- text-align: center;
 }
 
 /*Botón de acordión*/
