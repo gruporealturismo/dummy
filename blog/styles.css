@@ -1,11 +1,8 @@
 
 /*Tabla para headers de xml*/
-div.codes {
- background-color:#eee;
- font-size: 0.8em;
-}
 table.codesTable01 {
 border: 1px solid #ddd;
+font-size: 0.8em;
 }
 
 td.codesTable01 {
