@@ -8,12 +8,12 @@ font-size: 0.8em;
 td.codesTable01 {
  background-color:#eee;
  border: 1px solid #ddd;
- padding: 15px;
+ padding-left: 0.8em;
 }
 
 td.codesTable02 {
  background-color:#ffffff;
- padding: 15px;
+ padding-left: 15px;
 }
 
 /*Botón de acordión*/
