@@ -3,16 +3,17 @@
 table.codesTable01 {
 border: 1px solid #ddd;
 font-size: 0.8em;
-padding: 15px;
 }
 
 td.codesTable01 {
  background-color:#eee;
  border: 1px solid #ddd;
+ padding: 15px;
 }
 
 td.codesTable02 {
  background-color:#ffffff;
+ padding: 15px;
 }
 
 /*Botón de acordión*/
