@@ -4,19 +4,18 @@ div.codes {
  background-color:#eee;
  font-size: 0.8em;
 }
-
 table.codesTable01 {
- font-size: 0.8em;
+border: 1px solid #ddd;
+}
+
+td.codesTable01 {
+ background-color:#ffffff;
+ border: 1px solid #ddd;
 }
 
 td.codesTable02 {
  background-color:#eee;
- border: 1px solid grey;
-}
-
-tr.codesTable02 {
- background-color:#eee;
- border: 1px solid grey;
+ padding: 15px;
 }
 
 /*Botón de acordión*/
