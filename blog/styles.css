@@ -11,6 +11,7 @@ table.codesTable01 {
 
 td.codesTable02 {
  background-color:#eee;
+ border: 1px solid grey;
 }
 
 /*Botón de acordión*/
